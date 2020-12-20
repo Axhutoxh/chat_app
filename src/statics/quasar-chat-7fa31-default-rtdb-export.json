@@ -1,0 +1,45 @@
+{
+      "chats" : {
+        "x1y3dy4MTDbwxN2mRSADVHLX6zm2" : {
+          "99qpjyG0ulcYtThXKBaE6klsw4Y2": {
+            "MESSAGEID1" : {
+              "from" : "them",
+              "text" : "Hi how are you?"
+            },
+            "MESSAGEID2" : {
+              "from" : "me",
+              "text" : "Good thanks, how are you?"
+            }
+          }
+        },
+        "99qpjyG0ulcYtThXKBaE6klsw4Y2" : {
+          "x1y3dy4MTDbwxN2mRSADVHLX6zm2": {
+            "MESSAGEID1" : {
+              "from" : "me",
+              "text" : "Hi how are you?"
+            },
+            "MESSAGEID2" : {
+              "from" : "them",
+              "text" : "Good thanks, how are you?"
+            }
+          }
+        }
+      },
+  "users" : {
+    "99qpjyG0ulcYtThXKBaE6klsw4Y2" : {
+      "email" : "ashu@a.com",
+      "name" : "ashu",
+      "online" : true
+    },
+    "DAhEnF0IAIfXvNlBo95swKcWAR52" : {
+      "email" : "new1@a.com",
+      "name" : "new1",
+      "online" : false
+    },
+    "x1y3dy4MTDbwxN2mRSADVHLX6zm2" : {
+      "email" : "new@a.com",
+      "name" : "new",
+      "online" : false
+    }
+  }
+}
