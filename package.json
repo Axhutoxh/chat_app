@@ -1,7 +1,7 @@
 {
   "name": "pagger",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
+  "description": "A Quasar_Framework based Chat application",
   "productName": "pagger",
   "author": "Axhutoxh <ashutosh.chandra.520@gmail.com>",
   "private": true,
